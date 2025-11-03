@@ -1,3 +1,6 @@
+// Name:Amit Mali
+// PRN:123B1F058
+// Date: 4/11/25
 import java.util.*;
 
 class Movie {
@@ -64,3 +67,4 @@ public class StreamFlix {
         for (Movie m : movies) System.out.println(m);
     }
 }
+
