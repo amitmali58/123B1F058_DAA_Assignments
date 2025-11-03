@@ -1,3 +1,6 @@
+// Name:Amit Mali
+// PRN:123B1F058
+// Date: 4/11/25
 import java.util.Arrays;
 import java.util.Comparator;
 class Item {
@@ -51,4 +54,5 @@ public class Assignment_3 {
         double boatCapacity = 50;
         getMaxValue(items, boatCapacity);
     }
+
 }
