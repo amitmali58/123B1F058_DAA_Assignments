@@ -1,3 +1,6 @@
+// Name:Amit Mali
+// PRN:123B1F058
+// Date: 4/11/25
 import java.util.*;
 class Edge {
     int to; double weight;
@@ -43,3 +46,4 @@ public class Assignment4 {
         System.out.println("Updated shortest time: " + dist[hospital] + " minutes");
     }
 }
+
